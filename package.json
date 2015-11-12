@@ -2,9 +2,7 @@
   "name": "fis-parser-art-tmpl",
   "description": "A parser for fis to compile art-temaplte.",
   "version": "0.0.2",
-  "author": {
-    "name": "MIE Team"
-  },
+  "author": "",
   "homepage": "https://github.com/TCL-MIE-CD",
   "keywords": [
     "fis",
