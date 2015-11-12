@@ -1,0 +1,28 @@
+{
+  "name": "fis-parser-art-tmpl",
+  "description": "A parser for fis to compile art-temaplte.",
+  "version": "0.0.1",
+  "author": {
+    "name": "MIE Team"
+  },
+  "homepage": "https://github.com/TCL-MIE-CD",
+  "keywords": [
+    "fis",
+    "artTemplate"
+  ],
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TCL-MIE-CD/fis-parser-arttemplate"
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "dependencies": {
+    "art-template": "^3.0.3"
+  },
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/TCL-MIE-CD/fis-parser-arttemplate/issues"
+  }
+}
