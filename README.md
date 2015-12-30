@@ -13,7 +13,7 @@ A parser for fis to compile art-template.
 .match('/src/**.tmpl', {
   parser: fis.plugin('art-tmpl'),
   rExt: '.js'
-}
+});
 
 //业务代码
 var artTemplate = require('art-template');
